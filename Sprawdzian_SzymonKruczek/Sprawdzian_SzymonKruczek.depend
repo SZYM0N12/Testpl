@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1673612782 source:c:\users\szymon k\desktop\2tp\sprawdzian_szymonkruczek\main.cpp
+	<iostream>
+	<ctime>
+	<fstream>
+
+1673612782 source:c:\users\szymon k\desktop\sprawdzian_szymonkruczek\main.cpp
+	<iostream>
+	<ctime>
+	<fstream>
+
